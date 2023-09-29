@@ -1,4 +1,4 @@
-[![@mahesh0911's Holopin board](https://holopin.io/api/user/board?user=mahesh0911)](https://holopin.io/@mahesh0911
+![@mahesh0911's Holopin board](https://holopin.io/api/user/board?user=mahesh0911)
 ### Hi there 👋
 
 <!--

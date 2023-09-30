@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
   <img width="15" />

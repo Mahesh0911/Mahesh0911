@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying computer engineering ...<br>🌱 I’m currently learning and exploring new things in coding ...<br>👯 I’m looking to collaborate on C++ and other languages ...<br>💬 Ask me about 🤔 ...<br>📫 How to reach me: LinkedIn ...</p>
+<p align="left">🔭 I’m currently studying computer engineering ...<br>🌱 I’m currently learning and exploring new things in coding ...<br>👯 I’m looking to collaborate on C++ and other languages ...<br>💬 Ask me about 🤔 ...</p>
 
 ###
 

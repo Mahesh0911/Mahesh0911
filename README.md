@@ -16,7 +16,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mahesh0911/Mahesh0911/output/snake.svg" alt="Snake animation" />
+<img align-items="center" src="https://raw.githubusercontent.com/Mahesh0911/Mahesh0911/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both" >
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />

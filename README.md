@@ -16,7 +16,7 @@
 
 ###
 
-![Snake animation](https://github.com/Mahesh0911/Mahesh0911/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Mahesh0911/Mahesh0911/output/snake.svg" alt="Snake animation" />
 
 ###
 

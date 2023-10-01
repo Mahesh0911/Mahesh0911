@@ -89,6 +89,10 @@
 
 ###
 
+[![An image of @mahesh0911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahesh0911)](https://holopin.io/@mahesh0911)
+
+###
+
 <div align="center">
 <a href="https://linkedin.com/in/mahesh-dudhe-5385451bb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />

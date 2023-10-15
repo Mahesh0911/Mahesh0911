@@ -18,6 +18,7 @@
 <div align="center">
 <img align-items="center" src="https://raw.githubusercontent.com/Mahesh0911/Mahesh0911/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
